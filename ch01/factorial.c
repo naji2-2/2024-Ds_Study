@@ -1,5 +1,5 @@
 #include <stdio.h>
-// 재귀함수, 반복되지만 반복문과는 다름
+// 재귀함수, 반복되지만 반복문과는 다름.
 
 int factorial(int n) {
     if (n == 1)
