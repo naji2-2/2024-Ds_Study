@@ -1,4 +1,5 @@
 #include <stdio.h>
+// 최대 공약수 구하기
 
 int euclid(int m, int n) {
 	int r;
