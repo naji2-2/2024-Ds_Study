@@ -10,7 +10,7 @@ int euclid(int m, int n) {
 	return n;
 }
 
-int main(viod) {
+int main() {
 	int m, n, t;
 	printf("양의 정수 : ");
 	scanf_s("%d", &m);
